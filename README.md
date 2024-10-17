@@ -1,2 +1,2 @@
 # ITMS443PenetrationReport
-Industry grade penetration report of a fictitious company, 'ACME COFFEE'. This report adheres to industry standards of penetration reports and outlines the scenario in which I had to penetrate ACME COFFEE's IT server. 
+An industry-standard penetration testing report for the fictitious company 'ACME COFFEE.' This report follows established penetration testing guidelines and details the scenario in which I successfully conducted a security assessment on ACME COFFEE's IT server.
